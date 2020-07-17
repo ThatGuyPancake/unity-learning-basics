@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":2.7201156616210939,"y":6.113764762878418,"z":-1.035867691040039},"rotation":{"x":-0.10844960808753967,"y":0.5178494453430176,"z":-0.06638599932193756,"w":-0.845969021320343},"size":15.938458442687989,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.0,"y":5.0,"z":-7.0},"rotation":{"x":-0.10844960808753967,"y":0.5178494453430176,"z":-0.06638599932193756,"w":-0.845969021320343},"size":22.0,"orthographic":false}
+>>>>>>> master
